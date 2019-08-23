@@ -23,7 +23,7 @@ def modulo(num1 = 34, num2 = 5)
   p modulo
 end
 
-def square_root(num)
+def square_root(num = )
   square_root = num.sqrt
   p square_root
 end
